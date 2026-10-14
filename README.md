@@ -2,7 +2,6 @@
 
 A full-stack issue tracker built with **Java 21, Spring Boot, REST APIs, React, TypeScript, Vite, H2, JUnit, and GitHub Actions**.
 
-> Portfolio/demo application. The repository does not claim production users, deployments, or measured efficiency gains.
 
 ## Features
 - Create, edit, delete, and search issues
